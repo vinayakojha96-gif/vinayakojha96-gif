@@ -12,7 +12,7 @@ Python | Node.js | Azure | LLM | RAG | MongoDB
 ---
 
 ### 📫 Connect With Me
-LinkedIn: linkedin.com/in/vinayak-ojha-542730139
+LinkedIn: [linkedin.com/in/vinayak-ojha-542730139](https://www.linkedin.com/in/vinayak-ojha-542730139)
 
 
 ### 📊 GitHub Stats
